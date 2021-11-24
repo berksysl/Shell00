@@ -1,0 +1,5 @@
+Credentials cache: API:228B2B24-8C57-43AB-BC57-A9B4290173EF
+        Principal: tsoysal@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Nov 24 12:09:06 2021  Nov 24 22:09:01 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
